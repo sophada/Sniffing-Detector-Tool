@@ -1,0 +1,313 @@
+{
+  "ScanIntervalSeconds": 4,
+  "MonitoredFolders": [
+    {
+      "Path": "C:\\Program Files\\Simple USB Logger",
+      "Name": "SUSBLogger Detected"
+    },
+    {
+      "Path": "C:\\USBPcap",
+      "Name": "USB PCAP Tool"
+    },
+    {
+      "Path": "C:\\Program Files\\BusDog",
+      "Name": "BusDog USB Monitor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\BusDog",
+      "Name": "BusDog USB Monitor"
+    },
+    {
+      "Path": "C:\\Program Files\\Serial Port Monitor",
+      "Name": "Serial Port Monitor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Serial Port Monitor",
+      "Name": "Serial Port Monitor"
+    },
+    {
+      "Path": "C:\\Program Files\\Eltima Software\\Serial Port Monitor",
+      "Name": "Eltima Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Eltima Software\\Serial Port Monitor",
+      "Name": "Eltima Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files\\HHD Software\\Serial Monitor",
+      "Name": "HHD Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\HHD Software\\Serial Monitor",
+      "Name": "HHD Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files\\Advanced Serial Port Monitor",
+      "Name": "Advanced Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Advanced Serial Port Monitor",
+      "Name": "Advanced Serial Monitor"
+    },
+    {
+      "Path": "C:\\Program Files\\Wireshark",
+      "Name": "Wireshark Network Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Wireshark",
+      "Name": "Wireshark Network Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files\\USBlyzer",
+      "Name": "USBlyzer USB Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\USBlyzer",
+      "Name": "USBlyzer USB Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files\\Cheat Engine",
+      "Name": "Cheat Engine Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Cheat Engine",
+      "Name": "Cheat Engine Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\Process Hacker",
+      "Name": "Process Hacker"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Process Hacker",
+      "Name": "Process Hacker"
+    },
+    {
+      "Path": "C:\\Program Files\\Process Hacker 2",
+      "Name": "Process Hacker 2"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Process Hacker 2",
+      "Name": "Process Hacker 2"
+    },
+    {
+      "Path": "C:\\Program Files\\OllyDbg",
+      "Name": "OllyDbg Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\OllyDbg",
+      "Name": "OllyDbg Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\x64dbg",
+      "Name": "x64dbg Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\x64dbg",
+      "Name": "x64dbg Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\IDA",
+      "Name": "IDA Pro Disassembler"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\IDA",
+      "Name": "IDA Pro Disassembler"
+    },
+    {
+      "Path": "C:\\Program Files\\Fiddler",
+      "Name": "Fiddler Web Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Fiddler",
+      "Name": "Fiddler Web Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\Charles",
+      "Name": "Charles Proxy"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Charles",
+      "Name": "Charles Proxy"
+    },
+    {
+      "Path": "C:\\Program Files\\Burp Suite",
+      "Name": "Burp Suite Proxy"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Burp Suite",
+      "Name": "Burp Suite Proxy"
+    },
+    {
+      "Path": "C:\\Program Files\\Ghidra",
+      "Name": "Ghidra Reverse Engineering"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Ghidra",
+      "Name": "Ghidra Reverse Engineering"
+    },
+    {
+      "Path": "C:\\Program Files\\Immunity Debugger",
+      "Name": "Immunity Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Immunity Debugger",
+      "Name": "Immunity Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\WinDbg",
+      "Name": "Windows Debugger"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\WinDbg",
+      "Name": "Windows Debugger"
+    },
+    {
+      "Path": "C:\\Program Files\\Radare2",
+      "Name": "Radare2 Framework"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Radare2",
+      "Name": "Radare2 Framework"
+    },
+    {
+      "Path": "C:\\Program Files\\USBDeview",
+      "Name": "USBDeview Tool"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\USBDeview",
+      "Name": "USBDeview Tool"
+    },
+    {
+      "Path": "C:\\Program Files\\NetworkMiner",
+      "Name": "NetworkMiner Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\NetworkMiner",
+      "Name": "NetworkMiner Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files\\Tcpdump",
+      "Name": "Tcpdump Packet Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Tcpdump",
+      "Name": "Tcpdump Packet Analyzer"
+    },
+    {
+      "Path": "C:\\Program Files\\SysInternals",
+      "Name": "SysInternals Suite"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\SysInternals",
+      "Name": "SysInternals Suite"
+    },
+    {
+      "Path": "C:\\Program Files\\HxD",
+      "Name": "HxD Hex Editor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\HxD",
+      "Name": "HxD Hex Editor"
+    },
+    {
+      "Path": "C:\\Program Files\\010 Editor",
+      "Name": "010 Hex Editor"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\010 Editor",
+      "Name": "010 Hex Editor"
+    },
+    {
+      "Path": "C:\\Program Files\\Npcap",
+      "Name": "Npcap Packet Capture"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\Npcap",
+      "Name": "Npcap Packet Capture"
+    },
+    {
+      "Path": "C:\\Program Files\\WinPcap",
+      "Name": "WinPcap Packet Capture"
+    },
+    {
+      "Path": "C:\\Program Files (x86)\\WinPcap",
+      "Name": "WinPcap Packet Capture"
+    }
+  ],
+  "SuspiciousProcesses": [
+    "USBPcapCMD",
+    "SimpleUSBLogger",
+    "Wireshark",
+    "USBLogger",
+    "BusDog",
+    "busdog",
+    "SerialPortMonitor",
+    "SPMonitor",
+    "portmon",
+    "AdvancedSerialPortMonitor",
+    "HHDSerialMonitor",
+    "ComPortMonitor",
+    "EltimaSerialMonitor",
+    "usbpcap",
+    "usblyzer",
+    "serialmon",
+    "freeusbanalyzer",
+    "comportmonitor",
+    "cheatengine",
+    "cheatengine-x86_64",
+    "processhacker",
+    "ProcessHacker",
+    "ollydbg",
+    "x64dbg",
+    "x32dbg",
+    "ida",
+    "ida64",
+    "idaq",
+    "idaq64",
+    "Fiddler",
+    "FiddlerEverywhere",
+    "Charles",
+    "Burp Suite",
+    "burpsuite",
+    "Ghidra",
+    "ghidraRun",
+    "ImmunityDebugger",
+    "WinDbg",
+    "windbg",
+    "radare2",
+    "r2",
+    "USBDeview",
+    "NetworkMiner",
+    "tcpdump",
+    "procmon",
+    "procmon64",
+    "procexp",
+    "procexp64",
+    "autoruns",
+    "autoruns64",
+    "HxD",
+    "010Editor",
+    "Npcap",
+    "WinPcap",
+    "tshark",
+    "dumpcap",
+    "ettercap",
+    "cain",
+    "dsniff",
+    "apimonitor",
+    "ApiMonitor",
+    "SpyStudio",
+    "regshot",
+    "ProcessMonitor",
+    "dnSpy",
+    "dotPeek",
+    "ILSpy",
+    "PEiD",
+    "CFF Explorer",
+    "pestudio",
+    "DIE",
+    "DetectItEasy",
+    "ResourceHacker",
+    "reshacker"
+  ]
+}
